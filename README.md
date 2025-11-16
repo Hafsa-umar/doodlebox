@@ -1,2 +1,2 @@
 # doodlebox
-art page
+Art page
